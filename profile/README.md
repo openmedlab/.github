@@ -10,6 +10,6 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 - Open-source medical foundation models in 10+ modalities
 - Open-source world's first Chinese large language model
 - A leading benchmark and dataset for adapting foundation models in clinical applications
-- Various sample projects for the application of medical foundation models
+- Various sample projects for the real-world applications of medical foundation models
 
 ## Medical Foundation Model Spectrum
