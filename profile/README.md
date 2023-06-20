@@ -56,7 +56,7 @@ We introduce TemPL, a novel deep learning approach for zero-shot prediction of p
 
 ## Medical Large Language Models
 
-<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM DR.png"> MedFM NLP: 
+<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM NLP.png"> MedFM NLP: 
 > [MedLLM](https://github.com/openmedlab/MedGPT)
 > 
 > [MedLLM Covid](https://github.com/openmedlab/covid)
