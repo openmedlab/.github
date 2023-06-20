@@ -14,6 +14,7 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 - *Guidance*: Various demonstrations of the new learning paradigm using foundation models, including pre-trained models, code, and data.
 
 ## Medical Foundation Model Spectrum
+
 <div align="center">
     <a href="https://github.com/openmedlab/"><img width="1000px" height="auto" src="https://github.com/openmedlab/.github/blob/main/spectrum.png"></a>
 </div>
@@ -34,20 +35,22 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 
 
 ### Contributors
-**Project Leader**： Shaoting Zhang
-**Collaborators:**
-Shanghai AI Laboratory: Xiaosong Wang
-Guangzhou Laboratory: Yixue Li
-Zhejiang Laboratory: Wentao Zhu
-Shanghai Jiao Tong University: Dequan Wang, Xiaofan Zhang, Liang Hong
-Fudan University: Yi Guo
-University of Electronic Science and Technology of China: Guotai Wang
-East China University Of Science And Technology: Tong Ruan
-Beijing University of Posts and Telecommunications: Qicheng Lao
-The Chinese University of Hong Kong: Qi Dou
-The University of British Columbia: Xiaoxiao Li
-Rutgers University: Dimitris Metaxas
-West China Hospital: Kang Li
-Xinhua Hospital: Xin Sun
-Ruijin Hospital: Lifeng Zhu 
-The First Affiliated Hospital of Zhengzhou University: Jie Zhao
+
+**Project Leader**: Shaoting Zhang <br />
+**Collaborators:** <br />
+*Shanghai AI Laboratory*:  Xiaosong Wang <br />
+*Guangzhou Laboratory*:  Yixue Li <br />
+*Zhejiang Laboratory*:  Wentao Zhu <br />
+*Shanghai Jiao Tong University*:  Dequan Wang, Xiaofan Zhang, Liang Hong <br />
+*Fudan University*:  Yi Guo <br />
+*University of Electronic Science and Technology of China*:  Guotai Wang <br />
+*East China University Of Science And Technology*:  Tong Ruan <br />
+*Beijing University of Posts and Telecommunications*:  Qicheng Lao <br />
+*The Chinese University of Hong Kong*:  Qi Dou <br />
+*The University of British Columbia*:  Xiaoxiao Li <br />
+*Rutgers University*:  Dimitris Metaxas <br />
+*West China Hospital*:  Kang Li <br />
+*Xinhua Hospital*:  Xin Sun <br />
+*Ruijin Hospital*:  Lifeng Zhu <br />
+*The First Affiliated Hospital of Zhengzhou University*:  Jie Zhao <br />
+
