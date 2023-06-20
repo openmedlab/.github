@@ -21,44 +21,42 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 
 ## Pre-trained Medical Foundation Models
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Endo.png"> MedFM Endo: 
-> [Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train](https://github.com/openmedlab/Endo-FM)
+> [Foundation model for endoscope video analysis](https://github.com/openmedlab/Endo-FM)
 
-<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM CT.png"> MedFM CT: 
-> [MIS-FM: Medical Image Segmentation Foundation Model Pretrained with Large-Scale Unannotated 3D Images using Volume Fusion](https://github.com/openmedlab/MIS-FM)
-> 
-> [STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training](https://github.com/openmedlab/STU-Net)
+<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM CT.png"> MedFM CT/MR: 
+> Foundation model for 3D segmentation [[Model 1]](https://github.com/openmedlab/MIS-FM)
+> [[Model 2]](https://github.com/openmedlab/STU-Net)
 
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Path.png"> MedFM Path: 
-> [PathoDuet: Foundation Model for Pathological Slide Analysis of H&E and IHC Stains](https://github.com/openmedlab/PathoDuet)
-> 
-> [BROWN: Better Features for Whole Slide Image Based on Self-distillation](https://github.com/openmedlab/WSI_FoundationModel)
+> [Foundation model for pathological image staining](https://github.com/openmedlab/PathoDuet) and [classification](https://github.com/openmedlab/WSI_FoundationModel)
 
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM US.png"> MedFM US: 
-> [Deblurring Masked Autoencoder is Better Recipe for Ultrasound Image Recognition](https://github.com/openmedlab/DeblurringMIM)
->
-> [Fudan Ultrasound FM](https://github.com/openmedlab)
+> Foundation model for ultrasound images [[Model 1]](https://github.com/openmedlab/DeblurringMIM)
+> [[Model 2]](https://github.com/openmedlab)
 
-<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM DR.png"> MedFM DR: 
-> [OmniFM-DR](https://github.com/openmedlab/OmniFM-DR)
-
+<!-- <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM DR.png"> MedFM DR: 
+> [](https://github.com/openmedlab/OmniFM-DR)
+-->
 
 ## Medical NLP
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM DR.png"> MedFM NLP: 
 > [MedGPT](https://github.com/openmedlab/MedGPT)
+> 
+> [MedGPT-covid](https://github.com/openmedlab/covid)
 
 
-## Foundation Model Prompting for Medical Image Analysis
+## Prompting for Medical Image Analysis
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM X.png"> MedFM CV: 
-> [Text-guided Foundation Model Adaptation for Pathological Image Classification](https://github.com/openmedlab/CITE)
+> [Prompting for medical image classification](https://github.com/openmedlab/CITE)
 >
-> [Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study](https://github.com/openmedlab/MIU-VL)
+> [Prompting for medical image detection](https://github.com/openmedlab/MIU-VL)
 >
-> [Foundation Model Adaptation in Medical Image Classification](https://github.com/openmedlab/MedFM_Classification)[NeurIPS 2023 Competition](https://medfm2023.grand-challenge.org/)
+> [NeurIPS 2023 Competition](https://medfm2023.grand-challenge.org/) 
 
 
 ## Protein Engineering
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Fold.png"> MedFM Protein: 
-> [TemPL: A Novel Deep Learning Model for Zero-Shot Prediction of Protein Stability and Activity Based on Temperature-Guided Language Modeling](https://github.com/openmedlab/TemPL)
+> [ Foundation model to predict protein stability and activity](https://github.com/openmedlab/TemPL)
 
 ## Contributors
 
@@ -81,4 +79,4 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 *The First Affiliated Hospital of Zhengzhou University*:  Jie Zhao <br />
 
 ### Contact
-Please forward queries to [OpenMEDLab@pjlab.org.cn](mailto:openmedlab@pjlab.org.cn)
+Please forward queries to [openmedlab@pjlab.org.cn](mailto:openmedlab@pjlab.org.cn)
