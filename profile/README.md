@@ -19,35 +19,31 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
     <a href="https://github.com/openmedlab/"><img width="1000px" height="auto" src="https://github.com/openmedlab/.github/blob/main/spectrum.png"></a>
 </div>
 
-## Pre-trained Medical Foundation Models
+### Pre-trained Medical Foundation Models
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Endo.png"> MedFM Endo: 
 > [Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train](https://github.com/openmedlab/Endo-FM)
 
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM CT.png"> MedFM CT: 
-> [MIS-FM: Medical Image Segmentation Foundation Model Pretrained with Large-Scale Unannotated 3D Images using Volume Fusion](https://github.com/openmedlab/MIS-FM)  
+> [MIS-FM: Medical Image Segmentation Foundation Model Pretrained with Large-Scale Unannotated 3D Images using Volume Fusion](https://github.com/openmedlab/MIS-FM)
+> 
 > [STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training](https://github.com/openmedlab/STU-Net)
 
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Path.png"> MedFM Path: 
 > [PathoDuet: Foundation Model for Pathological Slide Analysis of H&E and IHC Stains](https://github.com/openmedlab/PathoDuet)
+> 
 > [BROWN: Better Features for Whole Slide Image Based on Self-distillation](https://github.com/openmedlab/WSI_FoundationModel)
 
-<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Path.png"> MedFM Path: 
-> [PathoDuet: Foundation Model for Pathological Slide Analysis of H&E and IHC Stains](https://github.com/openmedlab/PathoDuet)
+<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM US.png"> MedFM US: 
+> [Deblurring Masked Autoencoder is Better Recipe for Ultrasound Image Recognition](https://github.com/openmedlab/DeblurringMIM)
+>
+> [Fudan Ultrasound FM](https://github.com/openmedlab)
 
-
-
-
-
-
-
-
-
-## Model Adaptation for Medical Image Analysis
-
-
+<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM DR.png"> MedFM DR: 
+> [OmniFM-DR](https://github.com/openmedlab/OmniFM-DR)
 
 ### Medical NLP
 
+### Model Adaptation for Medical Image Analysis
 
 
 ### Protein Engineering
