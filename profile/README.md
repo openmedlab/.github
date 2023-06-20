@@ -38,11 +38,11 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 > [](https://github.com/openmedlab/OmniFM-DR)
 -->
 
-## Medical NLP
+## Medical Large Language Models
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM DR.png"> MedFM NLP: 
-> [MedGPT](https://github.com/openmedlab/MedGPT)
+> [MedLLM](https://github.com/openmedlab/MedGPT)
 > 
-> [MedGPT-covid](https://github.com/openmedlab/covid)
+> [MedLLM Covid](https://github.com/openmedlab/covid)
 
 
 ## Prompting for Medical Image Analysis
