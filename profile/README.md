@@ -78,5 +78,5 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 *Ruijin Hospital*:  Lifeng Zhu <br />
 *The First Affiliated Hospital of Zhengzhou University*:  Jie Zhao <br />
 
-### Contact
+### Contact us
 Please forward queries to [openmedlab@pjlab.org.cn](mailto:openmedlab@pjlab.org.cn)
