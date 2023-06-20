@@ -5,7 +5,7 @@
 
 
 
-OpenMEDLab is an open-source platform to share medical foundation models in multi-modalities, e.g., medical imaging, medical NLP, bioinformatics, protein， etc. It targets promoting novel approaches to long-tail problems in medicine,  and meanwhile, it seeks solutions to achieve lower cost, higher efficiency, and better generalizability in training AI models. The new learning paradigm of adapting foundation models to downstream applications makes it possible to develop innovative solutions for cross-domain and cross-modality diagnostic tasks efficiently.
+OpenMEDLab is an open-source platform to share medical foundation models in multi-modalities, e.g., medical imaging, medical NLP, bioinformatics, protein, etc. It targets promoting novel approaches to long-tail problems in medicine, and meanwhile, it seeks solutions to achieve lower cost, higher efficiency, and better generalizability in training AI models. The new learning paradigm of adapting foundation models to downstream applications makes it possible to develop innovative solutions for cross-domain and cross-modality diagnostic tasks efficiently.
 
 - *Ground-breaking*: World's first open-source platform for medical foundation models 
 - *Greatness*: Corporation with top medical institutes and facilities
@@ -42,11 +42,23 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 > [OmniFM-DR](https://github.com/openmedlab/OmniFM-DR)
 
 ### Medical NLP
+<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM DR.png"> MedFM NLP: 
+> [MedGPT](https://github.com/openmedlab/MedGPT)
 
 ### Model Adaptation for Medical Image Analysis
+<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM X.png"> MedFM CV: 
+> [Text-guided Foundation Model Adaptation for Pathological Image Classification](https://github.com/openmedlab/CITE)
+>
+> [Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study](https://github.com/openmedlab/MIU-VL)
+>
+> [A Real-world Dataset and Benchmark For Foundation Model Adaptation in Medical Image Classification](https://github.com/openmedlab/MedFM_Classification)
+>
+> [NeurIPS 2023 Competition: Foundation Model Prompting for Medical Image Classification Challenge](https://github.com/openmedlab/MedFM)
 
 
 ### Protein Engineering
+<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Fold.png"> MedFM Protein: 
+> [TemPL: A Novel Deep Learning Model for Zero-Shot Prediction of Protein Stability and Activity Based on Temperature-Guided Language Modeling](https://github.com/openmedlab/TemPL)
 
 
 ### Contributors
@@ -69,3 +81,5 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 *Ruijin Hospital*:  Lifeng Zhu <br />
 *The First Affiliated Hospital of Zhengzhou University*:  Jie Zhao <br />
 
+### Contact
+Please forward queries to [OpenMEDLab@pjlab.org.cn](mailto:openmedlab@pjlab.org.cn)
