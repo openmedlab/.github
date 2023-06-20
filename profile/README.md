@@ -5,7 +5,7 @@
 
 
 
-OpenMEDLab is an open-source platform to share medical foundation models in multi-modalities, e.g., medical imaging, medical NLP, bioinformatics, protein, etc. It targets promoting novel approaches to long-tail problems in medicine, and meanwhile, it seeks solutions to achieve lower cost, higher efficiency, and better generalizability in training AI models. The new learning paradigm of adapting foundation models to downstream applications makes it possible to develop innovative solutions for cross-domain and cross-modality diagnostic tasks efficiently.
+OpenMEDLab is an open-source platform to share medical foundation models in multi-modalities, e.g., medical imaging, medical NLP, bioinformatics, protein, etc. It targets promoting novel approaches to long-tail problems in medicine, and meanwhile, it seeks solutions to achieve lower cost, higher efficiency, and better generalizability in training medical AI models. The new learning paradigm of adapting foundation models to downstream applications makes it possible to develop innovative solutions for cross-domain and cross-modality diagnostic tasks efficiently. OpenMEDLad is distinguished by several features:
 
 - World's first open-source platform for medical foundation models 
 - Large-scale medical data for training with injected medical domain knowledge
@@ -22,7 +22,7 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 <!--
 ## Medical Foundation Model Spectrum
 -->
-Here, we present and open-source the Spectrum of medical foundation models and their applications in various medical data modalities, ranging from medical image analysis and medical large language models to protein engineering, as shown in the landscape above.
+Here, we present and open-source the spectrum of medical foundation models and their applications in various medical data modalities, ranging from medical image analysis and medical large language models to protein engineering, as shown in the landscape above.
 
 
 ## Pre-trained Medical Image Foundation Models
