@@ -5,15 +5,13 @@
 
 
 
-OpenMEDLab is an open-source platform to share medical foundation models in multi-modalities, e.g., medical imaging, medical NLP, bioinformatics, protein, etc. It targets promoting novel approaches to long-tail problems in medicine, and meanwhile, it seeks solutions to achieve lower cost, higher efficiency, and better generalizability in training medical AI models. The new learning paradigm of adapting foundation models to downstream applications makes it possible to develop innovative solutions for cross-domain and cross-modality diagnostic tasks efficiently. OpenMEDLad is distinguished by several features:
+OpenMEDLab is an open-source platform to share medical foundation models in multi-modalities, e.g., medical imaging, medical NLP, bioinformatics, protein, etc. It targets promoting novel approaches to long-tail problems in medicine, and meanwhile, it seeks solutions to achieve lower cost, higher efficiency, and better generalizability in training medical AI models. The new learning paradigm of adapting foundation models to downstream applications makes it possible to develop innovative solutions for cross-domain and cross-modality diagnostic tasks efficiently. OpenMEDLab is distinguished by several features:
 
 - World's first open-source platform for medical foundation models 
 - Large-scale medical data for training with injected medical domain knowledge
 - 10+ medical data modalities targeting long-tail (rate diseases) problem
 - Pioneering works of the new learning paradigm using foundation models, including pre-trained models, code, and data.
 - Collaboration with top medical institutes and facilities
-
-
 
 <div align="center">
     <a href="https://github.com/openmedlab/"><img width="1000px" height="auto" src="https://github.com/openmedlab/.github/blob/main/spectrum.png"></a>
@@ -22,16 +20,13 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 <!--
 ## Medical Foundation Model Spectrum
 -->
-Here, we present and open-source the spectrum of medical foundation models and their applications in various medical data modalities, ranging from medical image analysis and medical large language models to protein engineering, as shown in the landscape above.
+Here, we present and open-source a bundle of medical foundation models and their applications in various medical data modalities, ranging from medical image analysis and medical large language models to protein engineering, as shown in the diagram above.
 
 
 ## Pre-trained Medical Image Foundation Models
 
-In the past few years, deep learning foundation models have gained popularity, especially in computer vision and natural language processing due to demonstrable improvements in related applications. Many milestone models have been proposed, such as Transformer~\cite{vaswani2017attention}, GPT~\cite{radford2018improving,radford2019language}, Vision Transformers, (ViT)~\cite{dosovitskiy2021an}, and Contrastive Language-Image Pretraining (CLIP)~\cite{radford2021learning}. They are designed to address many downstream tasks by utilizing the robust representation learning and generalization abilities of foundation models.
- 
-In the field of medical image analysis, however, task-specific models are still the main approaches, especially for real-world applications such as computer-aided disease diagnosis. Developing medical foundation models presents a significant challenge due to the diverse imaging modalities used in medicine, which differ greatly from natural images and are based on a range of physics-based properties and energy sources. These modalities are based on the use of light, electrons, lasers, X-rays, ultrasound, nuclear physics,  and magnetic resonance. The images produced span multiple scales, ranging from molecules and cells to organ systems and the full body. Therefore, it may be infeasible to develop a unified multi-scale foundation model trained from a combination of these multi-modality images. 
-
-In the following, we will investigate and present our vision for the ``spectrum'' of foundation models and their uses in medical image analysis, ranging from general vision models, modality-specific models, to organ and task-specific models (Fig.~\ref{fig:spectrum}). Fortunately, the growing availability of high-quality publicly available annotated medical data has led to the gradual emergence of specialized foundational models with an innate capacity for generating more generalized representations of medical data. Therefore, foundation models trained with medical images and/or natural images in a self-supervised manner may serve as an improved solution basis for frontline clinical problems, advancing the field of medical imaging and improving the efficacy and efficiency of disease diagnosis and treatment.
+In the field of medical image analysis, task-specific models are still the main approaches, especially for real-world applications such as computer-aided disease diagnosis. Developing medical foundation models presents a significant challenge due to the diverse imaging modalities used in medicine. They could differ greatly from natural images and are based on a range of physics-based properties and energy sources, e.g., using light, electrons, lasers, X-rays, ultrasound, nuclear physics, and magnetic resonance. The images produced span multiple scales, ranging from molecules and cells to organ systems and the full body. Therefore, it may be infeasible to develop a unified multi-scale foundation model trained from a combination of these multi-modality images. 
+OpenMEDLab presents various foundation models and their uses in medical image analysis, ranging from modality-specific models, to organ and task-specific models (as shown below). Fortunately, the growing availability of high-quality publicly available annotated medical data has led to the gradual emergence of specialized foundational models with an innate capacity for generating more generalized representations of medical data. Therefore, foundation models trained with medical images and/or natural images in a self-supervised manner may serve as an improved solution basis for frontline clinical problems, advancing the field of medical imaging and improving the efficacy and efficiency of disease diagnosis and treatment.
 
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Endo.png"> MedFM Endo: 
 > [Foundation model for endoscope video analysis](https://github.com/openmedlab/Endo-FM)
