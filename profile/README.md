@@ -28,7 +28,12 @@ In the field of medical image analysis, task-specific models are still the main 
     <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="https://github.com/openmedlab/.github/blob/main/model_spectrum.png"></a>
 </div>
 
-OpenMEDLab presents a variety of foundation models and their uses in medical image analysis, ranging from modality-specific models to organ and task-specific models (see details in [Pre-trained Medical Image Foundation Models](https://github.com/openmedlab/.github/edit/main/profile/README.md#pre-trained-medical-image-foundation-models)). Additionally, the large-scale pre-trained vision and language models have shown remarkable domain transfer capability on natural images. However, it remains unknown whether this capability can also apply to the medical image domain. OpenMEDLab showcases the feasibility of transferring knowledge from pre-trained vision and language foundation models to the medical domain via well-engineered medical text prompts or building visual prompts in training (see details in [Prompting for Medical Image Analysis](https://github.com/openmedlab/.github/blob/main/profile/README.md#prompting-for-medical-image-analysis)).
+OpenMEDLab presents a variety of foundation models and their uses in medical image analysis, ranging from modality-specific models to organ and task-specific models (see details in [Pre-trained Medical Image Foundation Models](https://github.com/openmedlab/.github/edit/main/profile/README.md#pre-trained-medical-image-foundation-models)). Additionally, the large-scale pre-trained vision and language models have shown remarkable domain transfer capability on natural images. However, it remains unknown whether this capability can also apply to the medical image domain due to the unique characteristics of medical images. OpenMEDLab showcases the feasibility of transferring knowledge from pre-trained vision and language foundation models to the medical domain via well-engineered medical text prompts or building visual prompts in training (see details in [Prompting for Medical Image Analysis](https://github.com/openmedlab/.github/blob/main/profile/README.md#prompting-for-medical-image-analysis)).
+
+Insert NLP intro here...
+
+We introduce TemPL, a novel deep learning approach for zero-shot prediction of protein stability and activity, harnessing temperature-guided language modeling. By assembling an extensive dataset of 96 million sequence-host bacterial strain optimal growth temperatures (OGTs) and {\Delta}Tm data for point mutations under consistent experimental conditions, we effectively compared TemPL with state-of-the-art models. Notably, TemPL demonstrated superior performance in predicting protein stability. An ablation study was conducted to elucidate the influence of OGT prediction and language modeling modules on TemPL's performance, revealing the importance of integrating both components. Consequently, TemPL offers considerable promise for protein engineering applications, facilitating the design of mutation sequences with enhanced stability and activity.
+
 
 ## Pre-trained Medical Image Foundation Models
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Endo.png"> MedFM Endo: 
@@ -51,8 +56,6 @@ OpenMEDLab presents a variety of foundation models and their uses in medical ima
 
 ## Medical Large Language Models
 
-
-
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM DR.png"> MedFM NLP: 
 > [MedLLM](https://github.com/openmedlab/MedGPT)
 > 
@@ -60,36 +63,6 @@ OpenMEDLab presents a variety of foundation models and their uses in medical ima
 
 
 ## Prompting for Medical Image Analysis
-
-The large-scale pre-trained vision language models (VLM) have shown remarkable domain transfer capability on natural images. However, it remains unknown
-whether this capability can also apply to the medical image domain. This paper thoroughly studies the knowledge transferability of pre-trained VLMs to the
-medical domain, where we show that well-designed medical prompts are the key
-to elicit knowledge from pre-trained VLMs. We demonstrate that by prompting
-with expressive attributes that are shared between domains, the VLM can carry
-the knowledge across domains and improve its generalization. This mechanism
-empowers VLMs to recognize novel objects with fewer or without image samples.
-Furthermore, to avoid the laborious manual designing process, we develop three
-approaches for automatic generation of medical prompts, which can inject expertlevel medical knowledge and image-specific information into the prompts for finegrained grounding. We conduct extensive experiments on thirteen different medical datasets across various modalities, showing that our well-designed prompts
-greatly improve the zero-shot performance compared to the default prompts, and
-our fine-tuned models surpass the supervised models by a significant margin. 1
-
-The recent surge of foundation models in computer vision and
-natural language processing opens up perspectives in utilizing multi-modal
-clinical data to train large models with strong generalizability. Yet pathological
-image datasets often lack biomedical text annotation and enrichment. Guiding
-data-efficient image diagnosis from the use of biomedical text knowledge
-becomes a substantial interest. In this paper, we propose to Connect Image
-and Text Embeddings (CITE) to enhance pathological image classification.
-CITE injects text insights gained from language models pre-trained with a
-broad range of biomedical texts, leading to adapt foundation models towards
-pathological image understanding. Through extensive experiments on the
-PatchGastric stomach tumor pathological image dataset, we demonstrate that
-CITE achieves leading performance compared with various baselines especially
-when training data is scarce. CITE offers insights into leveraging in-domain
-text knowledge to reinforce data-efficient pathological image classification.
-
-However, while vision foundation models can learn general representations, medical images have unique characteristics whose features and patterns differ significantly from those in natural images. Therefore, carefully designed algorithms are necessary to adapt domain-specific problems. Fine-tuning, additional adapters, prompting strategies, and specialized architectures or modifications are potential solutions to achieve optimal performance in medical problems.
-
 
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM X.png"> MedFM CV: 
 > [Prompting for medical image classification](https://github.com/openmedlab/CITE)
@@ -100,7 +73,7 @@ However, while vision foundation models can learn general representations, medic
 
 
 ## Protein Engineering
-We introduce TemPL, a novel deep learning approach for zero-shot prediction of protein stability and activity, harnessing temperature-guided language modeling. By assembling an extensive dataset of 96 million sequence-host bacterial strain optimal growth temperatures (OGTs) and {\Delta}Tm data for point mutations under consistent experimental conditions, we effectively compared TemPL with state-of-the-art models. Notably, TemPL demonstrated superior performance in predicting protein stability. An ablation study was conducted to elucidate the influence of OGT prediction and language modeling modules on TemPL's performance, revealing the importance of integrating both components. Consequently, TemPL offers considerable promise for protein engineering applications, facilitating the design of mutation sequences with enhanced stability and activity.
+
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Fold.png"> MedFM Protein: 
 > [ Foundation model to predict protein stability and activity](https://github.com/openmedlab/TemPL)
 
