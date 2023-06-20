@@ -70,8 +70,8 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 *University of Electronic Science and Technology of China*:  Guotai Wang <br />
 *East China University Of Science And Technology*:  Tong Ruan <br />
 *Beijing University of Posts and Telecommunications*:  Qicheng Lao <br />
-*The Chinese University of Hong Kong*:  Qi Dou <br />
-*The University of British Columbia*:  Xiaoxiao Li <br />
+*Chinese University of Hong Kong*:  Qi Dou <br />
+*University of British Columbia*:  Xiaoxiao Li <br />
 *Rutgers University*:  Dimitris Metaxas <br />
 *West China Hospital*:  Kang Li <br />
 *Xinhua Hospital*:  Xin Sun <br />
