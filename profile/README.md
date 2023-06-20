@@ -61,7 +61,7 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 ## Contributors
 
 **Project Leader**: Shaoting Zhang <br />
-**Collaborators:** <br />
+**Key Contributors:** <br />
 *Shanghai AI Laboratory*:  Xiaosong Wang <br />
 *Guangzhou Laboratory*:  Yixue Li <br />
 *Zhejiang Laboratory*:  Wentao Zhu <br />
