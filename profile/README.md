@@ -19,11 +19,15 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
     <a href="https://github.com/openmedlab/"><img width="1000px" height="auto" src="https://github.com/openmedlab/.github/blob/main/spectrum.png"></a>
 </div>
 
-### Pre-trained Medical Foundation Models
+## Pre-trained Medical Foundation Models
+<img style="float: left;" width="25px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM CT.png"> MedFM Endo: 
+> [Foundation Model for Endoscopy Video Analysis](https://github.com/openmedlab/Endo-FM)
+
+<img style="float: left;" width="25px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM CT.png"> MedFM CT: 
+>   
 
 
-
-### Model Adaptation for Medical Image Analysis
+## Model Adaptation for Medical Image Analysis
 
 
 
