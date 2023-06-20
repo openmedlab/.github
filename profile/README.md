@@ -47,15 +47,13 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 > [MedGPT](https://github.com/openmedlab/MedGPT)
 
 
-## Model Adaptation for Medical Image Analysis
+## Foundation Model Prompting for Medical Image Analysis
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM X.png"> MedFM CV: 
 > [Text-guided Foundation Model Adaptation for Pathological Image Classification](https://github.com/openmedlab/CITE)
 >
 > [Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study](https://github.com/openmedlab/MIU-VL)
 >
-> [A Real-world Dataset and Benchmark For Foundation Model Adaptation in Medical Image Classification](https://github.com/openmedlab/MedFM_Classification)
->
-> [NeurIPS 2023 Competition: Foundation Model Prompting for Medical Image Classification Challenge](https://github.com/openmedlab/MedFM)
+> [Foundation Model Adaptation in Medical Image Classification](https://github.com/openmedlab/MedFM_Classification)[NeurIPS 2023 Competition](https://medfm2023.grand-challenge.org/)
 
 
 ## Protein Engineering
