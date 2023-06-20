@@ -19,7 +19,7 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
     <a href="https://github.com/openmedlab/"><img width="1000px" height="auto" src="https://github.com/openmedlab/.github/blob/main/spectrum.png"></a>
 </div>
 
-### Pre-trained Medical Foundation Models
+## Pre-trained Medical Foundation Models
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Endo.png"> MedFM Endo: 
 > [Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train](https://github.com/openmedlab/Endo-FM)
 
@@ -41,11 +41,13 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM DR.png"> MedFM DR: 
 > [OmniFM-DR](https://github.com/openmedlab/OmniFM-DR)
 
-### Medical NLP
+
+## Medical NLP
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM DR.png"> MedFM NLP: 
 > [MedGPT](https://github.com/openmedlab/MedGPT)
 
-### Model Adaptation for Medical Image Analysis
+
+## Model Adaptation for Medical Image Analysis
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM X.png"> MedFM CV: 
 > [Text-guided Foundation Model Adaptation for Pathological Image Classification](https://github.com/openmedlab/CITE)
 >
@@ -56,12 +58,11 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 > [NeurIPS 2023 Competition: Foundation Model Prompting for Medical Image Classification Challenge](https://github.com/openmedlab/MedFM)
 
 
-### Protein Engineering
+## Protein Engineering
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Fold.png"> MedFM Protein: 
 > [TemPL: A Novel Deep Learning Model for Zero-Shot Prediction of Protein Stability and Activity Based on Temperature-Guided Language Modeling](https://github.com/openmedlab/TemPL)
 
-
-### Contributors
+## Contributors
 
 **Project Leader**: Shaoting Zhang <br />
 **Collaborators:** <br />
