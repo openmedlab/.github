@@ -20,11 +20,26 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 </div>
 
 ## Pre-trained Medical Foundation Models
-<img style="float: left;" width="25px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM CT.png"> MedFM Endo: 
-> [Foundation Model for Endoscopy Video Analysis](https://github.com/openmedlab/Endo-FM)
+<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Endo.png"> MedFM Endo: 
+> [Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train](https://github.com/openmedlab/Endo-FM)
 
-<img style="float: left;" width="25px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM CT.png"> MedFM CT: 
->   
+<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM CT.png"> MedFM CT: 
+> [MIS-FM: Medical Image Segmentation Foundation Model Pretrained with Large-Scale Unannotated 3D Images using Volume Fusion](https://github.com/openmedlab/MIS-FM)  
+> [STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training](https://github.com/openmedlab/STU-Net)
+
+<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Path.png"> MedFM Path: 
+> [PathoDuet: Foundation Model for Pathological Slide Analysis of H&E and IHC Stains](https://github.com/openmedlab/PathoDuet)
+> [BROWN: Better Features for Whole Slide Image Based on Self-distillation](https://github.com/openmedlab/WSI_FoundationModel)
+
+<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Path.png"> MedFM Path: 
+> [PathoDuet: Foundation Model for Pathological Slide Analysis of H&E and IHC Stains](https://github.com/openmedlab/PathoDuet)
+
+
+
+
+
+
+
 
 
 ## Model Adaptation for Medical Image Analysis
