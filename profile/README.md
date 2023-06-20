@@ -7,11 +7,11 @@
 
 OpenMEDLab is an open-source platform to share medical foundation models in multi-modalities, e.g., medical imaging, medical NLP, bioinformatics, protein, etc. It targets promoting novel approaches to long-tail problems in medicine, and meanwhile, it seeks solutions to achieve lower cost, higher efficiency, and better generalizability in training AI models. The new learning paradigm of adapting foundation models to downstream applications makes it possible to develop innovative solutions for cross-domain and cross-modality diagnostic tasks efficiently.
 
-- *Ground-breaking*: World's first open-source platform for medical foundation models 
-- *Greatness*: Corporation with top medical institutes and facilities
-- *Gigantic*: Large-scale medical data for training, injecting medical domain knowledge
-- *Generalization*: 10+ medical data modalities targeting long-tail (rate diseases) problem
-- *Guidance*: Various demonstrations of the new learning paradigm using foundation models, including pre-trained models, code, and data.
+- World's first open-source platform for medical foundation models 
+- Large-scale medical data for training with injected medical domain knowledge
+- 10+ medical data modalities targeting long-tail (rate diseases) problem
+- Pioneering works of the new learning paradigm using foundation models, including pre-trained models, code, and data.
+- Corporation with top medical institutes and facilities
 
 ## Medical Foundation Model Spectrum
 
