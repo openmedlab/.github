@@ -9,7 +9,7 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 
 - World's first open-source platform for medical foundation models 
 - Large-scale medical data for training with injected medical domain knowledge
-- 10+ medical data modalities targeting long-tail (rate diseases) problem
+- 10+ medical data modalities targeting long-tail (rare diseases) problem
 - Pioneering works of the new learning paradigm using foundation models, including pre-trained models, code, and data.
 - Collaboration with top medical institutes and facilities
 
