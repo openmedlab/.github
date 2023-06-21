@@ -75,7 +75,7 @@ OpenMEDLab also encapsulates the advances in the research field of protein engin
 ## Protein Engineering
 
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Fold.png"> MedFM Protein: 
-> [ Foundation model to predict protein stability and activity](https://github.com/openmedlab/TemPL)
+> [ Foundation model to predict protein stability and activity]([https://github.com/openmedlab/PRIME)
 
 ## Contributors
 
