@@ -76,6 +76,8 @@ OpenMEDLab also encapsulates the advances in the research field of protein engin
 >
 > [Prompting for medical image detection](https://github.com/openmedlab/MIU-VL)
 >
+> [Prompting for medical image segmentation](https://github.com/openmedlab/MedLSAM)
+>
 > [NeurIPS 2023 Competition](https://medfm2023.grand-challenge.org/) 
 
 
