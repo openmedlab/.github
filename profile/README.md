@@ -88,23 +88,23 @@ OpenMEDLab also encapsulates the advances in the research field of protein engin
 
 ## Contributors
 
-**Project Leader**: Shaoting Zhang <br />
+**Project Leader**: [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ&hl=en&oi=ao) <br />
 **Key Contributors:** <br />
-*Shanghai AI Laboratory*:  Xiaosong Wang <br />
-*Guangzhou Laboratory*:  Yixue Li <br />
-*Zhejiang Laboratory*:  Wentao Zhu <br />
-*Shanghai Jiao Tong University*:  Dequan Wang, Xiaofan Zhang, Liang Hong <br />
-*Fudan University*:  Yi Guo <br />
-*University of Electronic Science and Technology of China*:  Guotai Wang <br />
-*East China University Of Science And Technology*:  Tong Ruan <br />
-*Beijing University of Posts and Telecommunications*:  Qicheng Lao <br />
-*Chinese University of Hong Kong*:  Qi Dou <br />
-*University of British Columbia*:  Xiaoxiao Li <br />
-*Rutgers University*:  Dimitris Metaxas <br />
-*West China Hospital*:  Kang Li <br />
-*Xinhua Hospital*:  Xin Sun <br />
-*Ruijin Hospital*:  Lifeng Zhu <br />
-*The First Affiliated Hospital of Zhengzhou University*:  Jie Zhao <br />
+*Shanghai AI Laboratory*:  [Xiaosong Wang](https://xiaosongwang.github.io/) <br />
+*Guangzhou Laboratory*:  [Yixue Li](https://scholar.google.com/citations?user=Qv27G1cAAAAJ) <br />
+*Zhejiang Laboratory*:  [Wentao Zhu](https://en.zhejianglab.com/institutescenters/Faculty/202112/t20211206_2900.shtml) <br />
+*Shanghai Jiao Tong University*:  [Dequan Wang](https://dequan.wang/), [Xiaofan Zhang](https://scholar.google.com/citations?user=30e95fEAAAAJ), [Liang Hong](https://scholar.google.com/citations?user=pcz1yA4AAAAJ) <br />
+*Fudan University*:  [Yi Guo](http://www.it.fudan.edu.cn/Data/View/1169) <br />
+*University of Electronic Science and Technology of China*:  [Guotai Wang](https://scholar.google.co.uk/citations?user=Z2sFN4EAAAAJ&hl=en) <br />
+*East China University Of Science And Technology*:  [Tong Ruan](https://dblp.org/pid/86/4212.html) <br />
+*Beijing University of Posts and Telecommunications*:  [Qicheng Lao](https://www.semanticscholar.org/author/Qicheng-Lao/40522277) <br />
+*Chinese University of Hong Kong*:  [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/) <br />
+*University of British Columbia*:  [Xiaoxiao Li](https://tea.ece.ubc.ca/) <br />
+*Rutgers University*:  [Dimitris Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ) <br />
+*West China Hospital*:  [Kang Li](https://yjs.cd120.com/showteacher.asp?id=1071) <br />
+*Xinhua Hospital*:  [Xin Sun](https://) <br />
+*Ruijin Hospital*:  [Lifeng Zhu](https://) <br />
+*The First Affiliated Hospital of Zhengzhou University*:  [Jie Zhao](https://www.zdyfy.com/zjjs/yxb2/yxb3/content_8743) <br />
 
 ### Contact us
 Please forward queries to [openmedlab@pjlab.org.cn](mailto:openmedlab@pjlab.org.cn)
