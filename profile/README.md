@@ -41,9 +41,9 @@ Moreover, the medical large language model, PULSE, is released in the OpenMEDLab
 OpenMEDLab also encapsulates the advances in the research field of protein engineering (see projects in [Protein Engineering](https://github.com/openmedlab/.github/blob/main/profile/README.md#protein-engineering)). As a pioneering work, we introduce TemPL, a novel deep learning approach for zero-shot prediction of protein stability and activity, harnessing temperature-guided large language modeling. An extensive dataset of 96 million sequence-host bacterial strain optimal growth temperatures (OGTs) and ∆Tm data is assembled for point mutations under consistent experimental conditions. TemPL offers considerable promise for protein engineering applications, facilitating the design of mutation sequences with enhanced stability and activity.
 
 ## Foundation Model Prompting for Medical Image Analysis
-<!--
+
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM X.png"> MedFM CV: 
--->
+
 > [Prompting for medical image classification](https://github.com/openmedlab/CITE)
 >
 > [Prompting for medical image detection](https://github.com/openmedlab/MIU-VL)
