@@ -97,7 +97,7 @@ OpenMEDLab also encapsulates the advances in the research field of protein engin
 *Fudan University*:  [Yi Guo](http://www.it.fudan.edu.cn/Data/View/1169) <br />
 *University of Electronic Science and Technology of China*:  [Guotai Wang](https://scholar.google.co.uk/citations?user=Z2sFN4EAAAAJ&hl=en) <br />
 *East China University Of Science And Technology*:  [Tong Ruan](https://dblp.org/pid/86/4212.html) <br />
-*Beijing University of Posts and Telecommunications*:  [Qicheng Lao](https://www.semanticscholar.org/author/Qicheng-Lao/40522277) <br />
+*Beijing University of Posts and Telecommunications*:  [Qicheng Lao](https://) <br />
 *Chinese University of Hong Kong*:  [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/) <br />
 *University of British Columbia*:  [Xiaoxiao Li](https://tea.ece.ubc.ca/) <br />
 *Rutgers University*:  [Dimitris Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ) <br />
