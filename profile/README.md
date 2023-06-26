@@ -104,7 +104,7 @@ OpenMEDLab also encapsulates the advances in the research field of protein engin
 *West China Hospital*:  [Kang Li](https://yjs.cd120.com/showteacher.asp?id=1071) <br />
 *Xinhua Hospital*:  [Xin Sun](https://) <br />
 *Ruijin Hospital*:  [Lifeng Zhu](https://) <br />
-*The First Affiliated Hospital of Zhengzhou University*:  [Jie Zhao](https://www.zdyfy.com/zjjs/yxb2/yxb3/content_8743) <br />
+*The First Affiliated Hospital of Zhengzhou University*:  [Jie Zhao](https://) <br />
 
 ### Contact us
 Please forward queries to [openmedlab@pjlab.org.cn](mailto:openmedlab@pjlab.org.cn)
