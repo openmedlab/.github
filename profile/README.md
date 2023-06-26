@@ -15,7 +15,7 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 - Collaboration with top medical institutes and facilities
 
 <div align="center">
-    <a href="https://github.com/openmedlab/"><img width="900px" height="auto" src="https://github.com/openmedlab/.github/blob/main/spectrum_feat.png"></a>
+    <a href="https://github.com/openmedlab/"><img width="1000px" height="auto" src="https://github.com/openmedlab/.github/blob/main/spectrum_feat.png"></a>
 </div>
 
 <!--
