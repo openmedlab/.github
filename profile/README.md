@@ -3,8 +3,9 @@
     <a href="https://github.com/openmedlab"><img width="1000px" height="auto" src="https://github.com/openmedlab/.github/blob/main/banner.png"></a>
 </div>
 
+---
 **Welcome to OpenMEDLab! All models, code, and data will be fully released during WAIC 2023 (July 6th, 2023), so stay tuned!**
-
+---
 
 OpenMEDLab is an open-source platform to share medical foundation models in multi-modalities, e.g., medical imaging, medical NLP, bioinformatics, protein, etc. It targets promoting novel approaches to long-tail problems in medicine, and meanwhile, it seeks solutions to achieve lower cost, higher efficiency, and better generalizability in training medical AI models. The new learning paradigm of adapting foundation models to downstream applications makes it possible to develop innovative solutions for cross-domain and cross-modality diagnostic tasks efficiently. OpenMEDLab is distinguished by several features:
 
@@ -23,9 +24,9 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 -->
 Here, we open-source a bundle of medical foundation models and their applications in various medical data modalities, ranging from medical image analysis and medical large language models to protein engineering, as shown in the diagram above.
 
-Recently, there has been a surge in the popularity of deep learning foundation models, particularly in the fields of computer vision and natural language processing. As a result, many milestone works have been proposed, such as Vision Transformers (ViT), Generative Pretrained Transformers (GPT), Contrastive Language-Image Pretraining (CLIP), and Segment Anything (SAM). As the size (number of parameters) of these models grows bigger, the capacity of the models increases while the requirement of assembled data for training also inflates, following the scaling law~\cite{kaplan2020scaling}. However, for specific domains like medicine, the shortage of public availability and quality annotations has been the bottleneck for training large-scale deep learning models. Therefore, a variety of learning paradigms has been researched to overcome the roadblock besides the conventional and monotone routine of finetuning the pre-trained model (e.g., ImageNet pre-trained models) using domain-specific data with labels.
+Recently, there has been a surge in the popularity of deep learning foundation models, particularly in the fields of computer vision and natural language processing. As a result, many milestone works have been proposed, such as Vision Transformers (ViT), Generative Pretrained Transformers (GPT), Contrastive Language-Image Pretraining (CLIP), and Segment Anything (SAM). As the size (number of parameters) of these models grows bigger, the capacity of the models increases while the requirement of assembled data for training also inflates, following the scaling law. However, for specific domains like medicine, the shortage of public availability and quality annotations has been the bottleneck for training large-scale deep learning models. Therefore, a variety of learning paradigms has been researched to overcome the roadblock besides the conventional and monotone routine of finetuning the pre-trained model (e.g., ImageNet pre-trained models) using domain-specific data with labels.
 
-The large-scale pre-trained vision and language models have shown remarkable domain transfer capability on natural images. However, it remains unknown whether this capability can also apply to the medical image domain due to the unique characteristics of medical images. OpenMEDLab showcases the feasibility of transferring knowledge from pre-trained vision and language foundation models to the medical domain via well-engineered medical text prompts or building visual prompts in training (see projects in [Prompting for Medical Image Analysis](https://github.com/openmedlab/.github/blob/main/profile/README.md#prompting-for-medical-image-analysis)).
+The large-scale pre-trained vision and language models have shown remarkable domain transfer capability on natural images. However, it remains unknown whether this capability can also apply to the medical image domain due to the unique characteristics of medical images. OpenMEDLab showcases the feasibility of transferring knowledge from pre-trained vision and language foundation models to the medical domain via well-engineered medical text prompts or building visual prompts in training (see projects in [Foundation Model Prompting for Medical Image Analysis](https://github.com/openmedlab/.github/blob/main/profile/README.md#foundation-model-prompting-for-medical-image-analysis)).
 
 In the field of medical image analysis, task-specific models are still the main approaches, especially for real-world applications such as computer-aided disease diagnosis. Developing medical foundation models presents a significant challenge due to the diverse imaging modalities used in medicine. They could differ greatly from natural images and are based on a range of physics-based properties and energy sources, e.g., using light, electrons, lasers, X-rays, ultrasound, nuclear physics, and magnetic resonance. The images produced span multiple scales, ranging from molecules and cells to organ systems and the full body. Therefore, it may be infeasible to develop a unified multi-scale foundation model trained from a combination of these multi-modality images. OpenMEDLab presents a variety of foundation models and their uses in medical image analysis, ranging from modality-specific models to organ and task-specific models (see projects in [Pre-trained Medical Image Foundation Models](https://github.com/openmedlab/.github/blob/main/profile/README.md#pre-trained-medical-image-foundation-models)).
 
@@ -36,10 +37,21 @@ In the field of medical image analysis, task-specific models are still the main 
 
 
 
-Moreover, the medical large language model, PULSE, is released in the OpenMEDLab. It collects a supervised fine-tuning dataset consisting of 4,000,000 data samples, which is equivalent to approximately 9.6 billion tokens, and has qualified experts labeled a reinforcement learning dataset with scores and ranks of responses generated by the model. PULSE is trained on these two datasets. A self-evaluation prompt is added to the reward model training, and the standard PPO framework is further optimized for better performance. It also demonstrates a fine-tuned version of the PULSE in understanding the literature on SARS-COV-2. Plugins for the downstream applications are under development. Quantized, updated versions and larger models will be released soon (see details in [Medical Large Language Models](https://github.com/openmedlab/.github/blob/main/profile/README.md#medical-large-language-models)).  
+Moreover, the medical large language model, PULSE, is released in the OpenMEDLab. It collects a supervised fine-tuning dataset consisting of 4,000,000 data samples, which is equivalent to approximately 9.6 billion tokens, and has qualified experts labeled a reinforcement learning dataset with scores and ranks of responses generated by the model. PULSE is trained on these two datasets. A self-evaluation prompt is added to the reward model training, and the standard PPO framework is further optimized for better performance. It also demonstrates a fine-tuned version of the PULSE in understanding the literature on SARS-COV-2. Plugins for the downstream applications are under development. Quantized, updated versions and larger models are currently under fast development, and please contact us for access (see details in [Medical Large Language Models](https://github.com/openmedlab/.github/blob/main/profile/README.md#medical-large-language-models)).  
 
 OpenMEDLab also encapsulates the advances in the research field of protein engineering (see projects in [Protein Engineering](https://github.com/openmedlab/.github/blob/main/profile/README.md#protein-engineering)). As a pioneering work, we introduce TemPL, a novel deep learning approach for zero-shot prediction of protein stability and activity, harnessing temperature-guided large language modeling. An extensive dataset of 96 million sequence-host bacterial strain optimal growth temperatures (OGTs) and ∆Tm data is assembled for point mutations under consistent experimental conditions. TemPL offers considerable promise for protein engineering applications, facilitating the design of mutation sequences with enhanced stability and activity.
 
+## Foundation Model Prompting for Medical Image Analysis
+
+<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM X.png"> MedFM CV: 
+
+> [Prompting for medical image classification](https://github.com/openmedlab/CITE)
+>
+> [Prompting for medical image detection](https://github.com/openmedlab/MIU-VL)
+>
+> [Prompting for medical 3D image segmentation and localization](https://github.com/openmedlab/MedLSAM)
+>
+> [NeurIPS 2023 Competition](https://medfm2023.grand-challenge.org/) 
 
 ## Pre-trained Medical Image Foundation Models
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Endo.png"> MedFM Endo: 
@@ -50,7 +62,7 @@ OpenMEDLab also encapsulates the advances in the research field of protein engin
 > [[Model 2]](https://github.com/openmedlab/STU-Net)
 
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Path.png"> MedFM Path: 
-> [Foundation model for pathological image staining](https://github.com/openmedlab/PathoDuet) and [classification](https://github.com/openmedlab/WSI_FoundationModel)
+> [Foundation model for pathological image staining](https://github.com/openmedlab/PathoDuet) and [classification](https://github.com/openmedlab/BROW)
 
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM US.png"> MedFM US: 
 > Foundation model for ultrasound images [[Model 1]](https://github.com/openmedlab/DeblurringMIM)
@@ -63,23 +75,12 @@ OpenMEDLab also encapsulates the advances in the research field of protein engin
 ## Medical Large Language Models
 
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM NLP.png"> MedFM NLP: 
-> [MedLLM](https://github.com/openmedlab/MedGPT)
+> [MedLLM](https://github.com/openmedlab/PULSE)
+
 <!--
 > 
 > [MedLLM Covid](https://github.com/openmedlab/covid)
 -->
-
-## Prompting for Medical Image Analysis
-
-<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM X.png"> MedFM CV: 
-> [Prompting for medical image classification](https://github.com/openmedlab/CITE)
->
-> [Prompting for medical image detection](https://github.com/openmedlab/MIU-VL)
->
-> [Prompting for medical image segmentation](https://github.com/openmedlab/MedLSAM)
->
-> [NeurIPS 2023 Competition](https://medfm2023.grand-challenge.org/) 
-
 
 ## Protein Engineering
 
@@ -88,23 +89,23 @@ OpenMEDLab also encapsulates the advances in the research field of protein engin
 
 ## Contributors
 
-**Project Leader**: Shaoting Zhang <br />
+**Project Leader**: [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ&hl=en&oi=ao) <br />
 **Key Contributors:** <br />
-*Shanghai AI Laboratory*:  Xiaosong Wang <br />
-*Guangzhou Laboratory*:  Yixue Li <br />
-*Zhejiang Laboratory*:  Wentao Zhu <br />
-*Shanghai Jiao Tong University*:  Dequan Wang, Xiaofan Zhang, Liang Hong <br />
-*Fudan University*:  Yi Guo <br />
-*University of Electronic Science and Technology of China*:  Guotai Wang <br />
-*East China University Of Science And Technology*:  Tong Ruan <br />
-*Beijing University of Posts and Telecommunications*:  Qicheng Lao <br />
-*Chinese University of Hong Kong*:  Qi Dou <br />
-*University of British Columbia*:  Xiaoxiao Li <br />
-*Rutgers University*:  Dimitris Metaxas <br />
-*West China Hospital*:  Kang Li <br />
-*Xinhua Hospital*:  Xin Sun <br />
-*Ruijin Hospital*:  Lifeng Zhu <br />
-*The First Affiliated Hospital of Zhengzhou University*:  Jie Zhao <br />
+*Shanghai AI Laboratory*:  [Xiaosong Wang](https://xiaosongwang.github.io/) <br />
+*Guangzhou Laboratory*:  [Yixue Li](https://scholar.google.com/citations?user=Qv27G1cAAAAJ) <br />
+*Zhejiang Laboratory*:  [Wentao Zhu](https://en.zhejianglab.com/institutescenters/Faculty/202112/t20211206_2900.shtml) <br />
+*Shanghai Jiao Tong University*:  [Dequan Wang](https://dequan.wang/), [Xiaofan Zhang](https://scholar.google.com/citations?user=30e95fEAAAAJ), [Liang Hong](https://scholar.google.com/citations?user=pcz1yA4AAAAJ) <br />
+*Fudan University*:  [Yi Guo](http://www.it.fudan.edu.cn/Data/View/1169) <br />
+*University of Electronic Science and Technology of China*:  [Guotai Wang](https://scholar.google.co.uk/citations?user=Z2sFN4EAAAAJ&hl=en) <br />
+*East China University Of Science And Technology*:  [Tong Ruan](https://dblp.org/pid/86/4212.html) <br />
+*Beijing University of Posts and Telecommunications*:  [Qicheng Lao](https://) <br />
+*Chinese University of Hong Kong*:  [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/) <br />
+*University of British Columbia*:  [Xiaoxiao Li](https://tea.ece.ubc.ca/) <br />
+*Rutgers University*:  [Dimitris Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ) <br />
+*West China Hospital*:  [Kang Li](https://yjs.cd120.com/showteacher.asp?id=1071) <br />
+*Xinhua Hospital*:  [Xin Sun](https://) <br />
+*Ruijin Hospital*:  [Lifeng Zhu](https://) <br />
+*The First Affiliated Hospital of Zhengzhou University*:  [Jie Zhao](https://) <br />
 
 ### Contact us
 Please forward queries to [openmedlab@pjlab.org.cn](mailto:openmedlab@pjlab.org.cn)
