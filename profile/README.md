@@ -66,8 +66,10 @@ OpenMEDLab also encapsulates the advances in the research field of protein engin
 
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM US.png"> MedFM US: 
 > Foundation model for ultrasound images [[DeblurringMIM]](https://github.com/openmedlab/DeblurringMIM)
-> [[Model 2]](https://github.com/openmedlab)
 
+<!--
+> [[Model 2]](https://github.com/openmedlab)
+-->
 <!-- <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM DR.png"> MedFM DR: 
 > [](https://github.com/openmedlab/OmniFM-DR)
 -->
