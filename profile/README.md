@@ -58,14 +58,14 @@ OpenMEDLab also encapsulates the advances in the research field of protein engin
 > [Foundation model for endoscope video analysis](https://github.com/openmedlab/Endo-FM)
 
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM CT.png"> MedFM CT/MR: 
-> Foundation model for 3D segmentation [[Model 1]](https://github.com/openmedlab/MIS-FM)
-> [[Model 2]](https://github.com/openmedlab/STU-Net)
+> Foundation model for 3D segmentation [[MIS-FM]](https://github.com/openmedlab/MIS-FM)
+> [[STU-Net]](https://github.com/openmedlab/STU-Net)
 
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Path.png"> MedFM Path: 
 > Foundation model for pathological image [staining](https://github.com/openmedlab/PathoDuet) and [classification](https://github.com/openmedlab/BROW)
 
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM US.png"> MedFM US: 
-> Foundation model for ultrasound images [[Model 1]](https://github.com/openmedlab/DeblurringMIM)
+> Foundation model for ultrasound images [[DeblurringMIM]](https://github.com/openmedlab/DeblurringMIM)
 > [[Model 2]](https://github.com/openmedlab)
 
 <!-- <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM DR.png"> MedFM DR: 
