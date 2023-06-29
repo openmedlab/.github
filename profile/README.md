@@ -62,7 +62,7 @@ OpenMEDLab also encapsulates the advances in the research field of protein engin
 > [[STU-Net]](https://github.com/openmedlab/STU-Net)
 
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Path.png"> MedFM Path: 
-> Foundation model for pathological image [staining](https://github.com/openmedlab/PathoDuet) and [classification](https://github.com/openmedlab/BROW)
+> Foundation model for pathological image staining [[PathoDuet]](https://github.com/openmedlab/PathoDuet) and classification [[BROW]](https://github.com/openmedlab/BROW)
 
 <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM US.png"> MedFM US: 
 > Foundation model for ultrasound images [[DeblurringMIM]](https://github.com/openmedlab/DeblurringMIM)
