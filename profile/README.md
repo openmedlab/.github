@@ -93,7 +93,7 @@ OpenMEDLab also encapsulates the advances in the research field of protein engin
 
 **Project Leader**: [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ&hl=en&oi=ao) <br />
 **Key Contributors:** <br />
-*Shanghai AI Laboratory*:  [Xiaosong Wang](https://xiaosongwang.github.io/) <br />
+*Shanghai AI Laboratory*:  [Xiaosong Wang](https://xiaosongwang.github.io/), [Junjun He](https://junjun2016.github.io/) <br />
 *Guangzhou Laboratory*:  [Yixue Li](https://scholar.google.com/citations?user=Qv27G1cAAAAJ) <br />
 *Zhejiang Laboratory*:  [Wentao Zhu](https://en.zhejianglab.com/institutescenters/Faculty/202112/t20211206_2900.shtml) <br />
 *Shanghai Jiao Tong University*:  [Dequan Wang](https://dequan.wang/), [Xiaofan Zhang](https://scholar.google.com/citations?user=30e95fEAAAAJ), [Liang Hong](https://scholar.google.com/citations?user=pcz1yA4AAAAJ) <br />
