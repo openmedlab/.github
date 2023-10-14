@@ -19,6 +19,15 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
     <a href="https://github.com/openmedlab/"><img width="1000px" height="auto" src="https://github.com/openmedlab/.github/blob/main/spectrum_feat.png"></a>
 </div>
 
+## Our Representive Papers
+- [On the Challenges and Perspectives of Foundation Models for Medical Image Analysis](https://arxiv.org/abs/2306.05705). *Medical Image Analysis* [[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:J70zITTedDIJ:scholar.google.com/&output=citation&scisdr=ClGCG90EEIyrltZ6ALo:AFWwaeYAAAAAZSp_GLo9l1h0A9Xfqj4UOgDkuvc&scisig=AFWwaeYAAAAAZSp_GEMZ67_nUySG2SqUm1OJ2-o&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+- [MedFMC: A Real-world Dataset and Benchmark For Foundation Model Adaptation in Medical Image Classification](https://arxiv.org/abs/2306.09579). *Scientific Data* [[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:BCPnWMti3HQJ:scholar.google.com/&output=citation&scisdr=ClGCG90EEIyrltZ6rqk:AFWwaeYAAAAAZSp_tqmk6oYgQrXNtHwzW0DMEns&scisig=AFWwaeYAAAAAZSp_tq5EaJBchoyzmfgWNGOqvKU&scisf=4&ct=citation&cd=-1&hl=zh-CN)] 
+- [A large-scale synthetic pathological dataset for deep learning-enabled segmentation of breast cancer](https://www.nature.com/articles/s41597-023-02125-y). *Scientific Data* [[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:WsRPEhK4KuEJ:scholar.google.com/&output=citation&scisdr=ClGCG90EEIyrltZ67zU:AFWwaeYAAAAAZSp_9zVB5ymZhycU_usPtJzS5sk&scisig=AFWwaeYAAAAAZSp_93CymJ9H4sfq8ckCgjv91kA&scisf=4&ct=citation&cd=-1&hl=zh-CN)] 
+- [Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study](https://arxiv.org/abs/2209.15517). *ICLR'2023* [[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:c9BOMPOeCJcJ:scholar.google.com/&output=citation&scisdr=ClGCG90EEIyrltaFB7U:AFWwaeYAAAAAZSqAH7UloOfwcqXiNh2qJhgqvYI&scisig=AFWwaeYAAAAAZSqAH_WCfaXORA4UR_8IK4UXQJQ&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+- [A foundation model for generalizable disease detection from retinal images](https://www.nature.com/articles/s41586-023-06555-x). *Nature* [[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:xV6eYaN6kysJ:scholar.google.com/&output=citation&scisdr=ClGCG90EEIyrltaFX-U:AFWwaeYAAAAAZSqAR-Us5e0f_6S5W3myNSCdshw&scisig=AFWwaeYAAAAAZSqAR-y3a58gMrPJVA_6feIUUok&scisf=4&ct=citation&cd=-1&hl=zh-CN)] 
+
+---
+
 <!--
 ## Medical Foundation Model Spectrum
 -->
@@ -103,6 +112,7 @@ OpenMEDLab also encapsulates the advances in the research field of protein engin
 *Beijing University of Posts and Telecommunications*:  [Qicheng Lao](https://) <br />
 *Chinese University of Hong Kong*:  [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/) <br />
 *University of British Columbia*:  [Xiaoxiao Li](https://tea.ece.ubc.ca/) <br />
+*University College London*:  [Yukun Zhou](https://rmaphoh.github.io/) <br />
 *Rutgers University*:  [Dimitris Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ) <br />
 *West China Hospital*:  [Kang Li](https://yjs.cd120.com/showteacher.asp?id=1071) <br />
 *Xinhua Hospital*:  [Xin Sun](https://) <br />
