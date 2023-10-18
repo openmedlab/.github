@@ -1,0 +1,10 @@
+@article{ding2023large,
+  title={A large-scale synthetic pathological dataset for deep learning-enabled segmentation of breast cancer},
+  author={Ding, Kexin and Zhou, Mu and Wang, He and Gevaert, Olivier and Metaxas, Dimitris and Zhang, Shaoting},
+  journal={Scientific Data},
+  volume={10},
+  number={1},
+  pages={231},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}
