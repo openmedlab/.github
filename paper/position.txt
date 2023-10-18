@@ -1,0 +1,8 @@
+@misc{zhang2023challenges,
+  title={On the Challenges and Perspectives of Foundation Models for Medical Image Analysis},
+  author={Zhang, Shaoting and Metaxas, Dimitris},
+  journal={Medical Image Analysis},
+  volume={91},
+  year={2024},
+  publisher={Elsevier}
+}
