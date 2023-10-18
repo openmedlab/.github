@@ -41,7 +41,7 @@ The large-scale pre-trained vision and language models have shown remarkable dom
 In the field of medical image analysis, task-specific models are still the main approaches, especially for real-world applications such as computer-aided disease diagnosis. Developing medical foundation models presents a significant challenge due to the diverse imaging modalities used in medicine. They could differ greatly from natural images and are based on a range of physics-based properties and energy sources, e.g., using light, electrons, lasers, X-rays, ultrasound, nuclear physics, and magnetic resonance. The images produced span multiple scales, ranging from molecules and cells to organ systems and the full body. Therefore, it may be infeasible to develop a unified multi-scale foundation model trained from a combination of these multi-modality images. OpenMEDLab presents a variety of foundation models and their uses in medical image analysis, ranging from modality-specific models to organ and task-specific models (see projects in [Pre-trained Medical Image Foundation Models](https://github.com/openmedlab/.github/blob/main/profile/README.md#pre-trained-medical-image-foundation-models)).
 
 <div align="center">
-    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="https://github.com/openmedlab/.github/blob/main/model_spectrum.png"></a>
+    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="https://github.com/openmedlab/.github/blob/main/model_spectrum_new.png"></a>
 </div>
 <p style="text-align:center;font-size:5px;"><em>Image from "S. Zhang and D. Metaxas. On the Challenges and Perspectives of Foundation Models for Medical Image Analysis. arXiv preprint arXiv:2306.05705."</em></p>
 
