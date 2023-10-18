@@ -1,0 +1,8 @@
+@inproceedings{wang2023foundation,
+  title={Foundation model for endoscopy video analysis via large-scale self-supervised pre-train},
+  author={Wang, Zhao and Liu, Chang and Zhang, Shaoting and Dou, Qi},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={101--111},
+  year={2023},
+  organization={Springer}
+}

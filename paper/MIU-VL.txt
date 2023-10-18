@@ -1,0 +1,6 @@
+@article{qin2022medical,
+  title={Medical image understanding with pretrained vision language models: A comprehensive study},
+  author={Qin, Ziyuan and Yi, Huahui and Lao, Qicheng and Li, Kang},
+  journal={arXiv preprint arXiv:2209.15517},
+  year={2022}
+}
