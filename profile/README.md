@@ -20,7 +20,7 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 </div>
 
 ### Our Representive Papers
-- [On the Challenges and Perspectives of Foundation Models for Medical Image Analysis](https://arxiv.org/abs/2306.05705). *Medical Image Analysis* [[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:J70zITTedDIJ:scholar.google.com/&output=citation&scisdr=ClGCG90EEIyrltZ6ALo:AFWwaeYAAAAAZSp_GLo9l1h0A9Xfqj4UOgDkuvc&scisig=AFWwaeYAAAAAZSp_GEMZ67_nUySG2SqUm1OJ2-o&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+- [On the Challenges and Perspectives of Foundation Models for Medical Image Analysis](https://arxiv.org/abs/2306.05705). *Medical Image Analysis* [[Bibtex](https://github.com/openmedlab/.github/blob/main/paper/position.txt)]
 - [MedFMC: A Real-world Dataset and Benchmark For Foundation Model Adaptation in Medical Image Classification](https://arxiv.org/abs/2306.09579). *Scientific Data* [[Bibtex](https://github.com/openmedlab/.github/blob/main/paper/medfmc.txt)] 
 - [A Large-scale Synthetic Pathological Dataset for Deep Learning-enabled Segmentation of Breast Cancer](https://www.nature.com/articles/s41597-023-02125-y). *Scientific Data* [[Bibtex](https://github.com/openmedlab/.github/blob/main/paper/dingkx.txt)] 
 - [Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study](https://arxiv.org/abs/2209.15517). *ICLR'2023* [[Bibtex](https://github.com/openmedlab/.github/blob/main/paper/MIU-VL.txt)]
