@@ -43,7 +43,7 @@ In the field of medical image analysis, task-specific models are still the main 
 <div align="center">
     <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="https://github.com/openmedlab/.github/blob/main/model_spectrum_new.png"></a>
 </div>
-<p style="text-align:center;font-size:5px;"><em>Image from "S. Zhang and D. Metaxas. On the Challenges and Perspectives of Foundation Models for Medical Image Analysis. arXiv preprint arXiv:2306.05705."</em></p>
+<p style="text-align:center;font-size:5px;"><em>Image from "S. Zhang and D. Metaxas. On the Challenges and Perspectives of Foundation Models for Medical Image Analysis. Medical Image Analysis"</em></p>
 
 
 
