@@ -21,11 +21,11 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 
 ### Our Representive Papers
 - [On the Challenges and Perspectives of Foundation Models for Medical Image Analysis](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002566). *Medical Image Analysis* [[Bibtex](https://github.com/openmedlab/.github/blob/main/paper/position.txt)]
-- [MedFMC: A Real-world Dataset and Benchmark For Foundation Model Adaptation in Medical Image Classification](https://www.nature.com/articles/s41597-023-02460-0). *Scientific Data* [[Code]([https://github.com/openmedlab/.github/blob/main/paper/medfmc.txt](https://github.com/openmedlab/MedFM))] 
+- [MedFMC: A Real-world Dataset and Benchmark For Foundation Model Adaptation in Medical Image Classification](https://www.nature.com/articles/s41597-023-02460-0). *Scientific Data* [[Code](https://github.com/openmedlab/MedFM))]
 - [A Large-scale Synthetic Pathological Dataset for Deep Learning-enabled Segmentation of Breast Cancer](https://www.nature.com/articles/s41597-023-02125-y). *Scientific Data* [[Bibtex](https://github.com/openmedlab/.github/blob/main/paper/dingkx.txt)] 
 - [Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study](https://iclr.cc/virtual/2023/poster/11569). *ICLR'2023* [[Code](https://github.com/openmedlab/MIU-VL)]
 - [Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_10). *MICCAI'2023* [[Code](https://github.com/openmedlab/Endo-FM)] 
-- [A Foundation Model for Generalizable Disease Detection from Retinal Images](https://www.nature.com/articles/s41586-023-06555-x). *Nature* [[Code]([https://github.com/openmedlab/.github/blob/main/paper/RETFound_MAE.txt](https://github.com/openmedlab/RETFound_MAE))] 
+- [A Foundation Model for Generalizable Disease Detection from Retinal Images](https://www.nature.com/articles/s41586-023-06555-x). *Nature* [[Code](https://github.com/openmedlab/RETFound_MAE)] 
 
 ---
 
