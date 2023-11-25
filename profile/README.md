@@ -27,77 +27,26 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 - [Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_10). *MICCAI'2023* [[Code](https://github.com/openmedlab/Endo-FM)] 
 - [A Foundation Model for Generalizable Disease Detection from Retinal Images](https://www.nature.com/articles/s41586-023-06555-x). *Nature* [[Code](https://github.com/openmedlab/RETFound_MAE)] 
 
----
+### Models
 
-<!--
-## Medical Foundation Model Spectrum
--->
-Here, we open-source a bundle of medical foundation models and their applications in various medical data modalities, ranging from medical image analysis and medical large language models to protein engineering, as shown in the diagram above.
-
-Recently, there has been a surge in the popularity of deep learning foundation models, particularly in the fields of computer vision and natural language processing. As a result, many milestone works have been proposed, such as Vision Transformers (ViT), Generative Pretrained Transformers (GPT), Contrastive Language-Image Pretraining (CLIP), and Segment Anything (SAM). As the size (number of parameters) of these models grows bigger, the capacity of the models increases while the requirement of assembled data for training also inflates, following the scaling law. However, for specific domains like medicine, the shortage of public availability and quality annotations has been the bottleneck for training large-scale deep learning models. Therefore, a variety of learning paradigms has been researched to overcome the roadblock besides the conventional and monotone routine of finetuning the pre-trained model (e.g., ImageNet pre-trained models) using domain-specific data with labels.
-
-The large-scale pre-trained vision and language models have shown remarkable domain transfer capability on natural images. However, it remains unknown whether this capability can also apply to the medical image domain due to the unique characteristics of medical images. OpenMEDLab showcases the feasibility of transferring knowledge from pre-trained vision and language foundation models to the medical domain via well-engineered medical text prompts or building visual prompts in training (see projects in [Foundation Model Prompting for Medical Image Analysis](https://github.com/openmedlab/.github/blob/main/profile/README.md#foundation-model-prompting-for-medical-image-analysis)).
-
-In the field of medical image analysis, task-specific models are still the main approaches, especially for real-world applications such as computer-aided disease diagnosis. Developing medical foundation models presents a significant challenge due to the diverse imaging modalities used in medicine. They could differ greatly from natural images and are based on a range of physics-based properties and energy sources, e.g., using light, electrons, lasers, X-rays, ultrasound, nuclear physics, and magnetic resonance. The images produced span multiple scales, ranging from molecules and cells to organ systems and the full body. Therefore, it may be infeasible to develop a unified multi-scale foundation model trained from a combination of these multi-modality images. OpenMEDLab presents a variety of foundation models and their uses in medical image analysis, ranging from modality-specific models to organ and task-specific models (see projects in [Pre-trained Medical Image Foundation Models](https://github.com/openmedlab/.github/blob/main/profile/README.md#pre-trained-medical-image-foundation-models)).
+In OpenMEDLab, we open-source a bundle of medical foundation models and their applications in various medical data modalities, ranging from medical image analysis and medical large language models to protein engineering, as shown in the diagram above.
 
 <div align="center">
     <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="https://github.com/openmedlab/.github/blob/main/model_spectrum_new.png"></a>
 </div>
 <p style="text-align:center;font-size:5px;"><em>Image from "S. Zhang and D. Metaxas. On the Challenges and Perspectives of Foundation Models for Medical Image Analysis. Medical Image Analysis"</em></p>
 
+#### Highlight Models
 
+- The Medical Large Language Model: [PULSE](https://github.com/openmedlab/PULSE)
+- The 3D CT Segmentation Foundation Model: [MIS-FM](https://github.com/openmedlab/MIS-FM)
+- The Scalable and Transferable 3D Segmentation Foundation Model: [STU-Net](https://github.com/openmedlab/STU-Net)
+- The Foundation Model for Retinal Image: [RETFound](https://github.com/openmedlab/RETFound_MAE)
+- The Foundation Model for Endoscopy Video Analysis: [Endo-FM](https://github.com/openmedlab/Endo-FM)
 
-Moreover, the medical large language model, PULSE, is released in the OpenMEDLab. It collects a supervised fine-tuning dataset consisting of 4,000,000 data samples, which is equivalent to approximately 9.6 billion tokens, and has qualified experts labeled a reinforcement learning dataset with scores and ranks of responses generated by the model. PULSE is trained on these two datasets. A self-evaluation prompt is added to the reward model training, and the standard PPO framework is further optimized for better performance. It also demonstrates a fine-tuned version of the PULSE in understanding the literature on SARS-COV-2. Plugins for the downstream applications are under development. Quantized, updated versions and larger models are currently under fast development, and please contact us for access (see details in [Medical Large Language Models](https://github.com/openmedlab/.github/blob/main/profile/README.md#medical-large-language-models)).  
+Comprehensive introduction of models in OpenMEDLab could be found [here](https://github.com/openmedlab/.github/blob/main/models.md).
 
-OpenMEDLab also encapsulates the advances in the research field of protein engineering (see projects in [Protein Engineering](https://github.com/openmedlab/.github/blob/main/profile/README.md#protein-engineering)). As a pioneering work, we introduce TemPL, a novel deep learning approach for zero-shot prediction of protein stability and activity, harnessing temperature-guided large language modeling. An extensive dataset of 96 million sequence-host bacterial strain optimal growth temperatures (OGTs) and ∆Tm data is assembled for point mutations under consistent experimental conditions. TemPL offers considerable promise for protein engineering applications, facilitating the design of mutation sequences with enhanced stability and activity.
-
-## Foundation Model Prompting for Medical Image Analysis
-
-<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM X.png"> MedFM CV: 
-
-> [Prompting for medical image classification](https://github.com/openmedlab/CITE)
->
-> [Prompting for medical image detection](https://github.com/openmedlab/MIU-VL)
->
-> [Prompting for medical 3D image segmentation and localization](https://github.com/openmedlab/MedLSAM)
->
-> [NeurIPS 2023 Competition](https://medfm2023.grand-challenge.org/) 
-
-## Pre-trained Medical Image Foundation Models
-<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Endo.png"> MedFM Endo: 
-> [Foundation model for endoscope video analysis](https://github.com/openmedlab/Endo-FM)
-
-<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM CT.png"> MedFM CT/MR: 
-> Foundation model for 3D segmentation [[MIS-FM]](https://github.com/openmedlab/MIS-FM)
-> [[STU-Net]](https://github.com/openmedlab/STU-Net)
-
-<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Path.png"> MedFM Path: 
-> Foundation model for pathological image staining [[PathoDuet]](https://github.com/openmedlab/PathoDuet) and classification [[BROW]](https://github.com/openmedlab/BROW)
-
-<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM US.png"> MedFM US: 
-> Foundation model for ultrasound images [[DeblurringMIM]](https://github.com/openmedlab/DeblurringMIM)
-
-<!--
-> [[Model 2]](https://github.com/openmedlab)
--->
-<!-- <img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM DR.png"> MedFM DR: 
-> [](https://github.com/openmedlab/OmniFM-DR)
--->
-
-## Medical Large Language Models
-
-<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM NLP.png"> MedFM NLP: 
-> [MedLLM](https://github.com/openmedlab/PULSE)
-
-<!--
-> 
-> [MedLLM Covid](https://github.com/openmedlab/covid)
--->
-
-## Protein Engineering
-
-<img style="float: left;" width="20px" height="auto" src="https://github.com/openmedlab/.github/blob/main/profile/MedFM Fold.png"> MedFM Protein: 
-> [ Foundation model to predict protein stability and activity](https://github.com/openmedlab/PRIME)
+---
 
 ## Contributors
 
