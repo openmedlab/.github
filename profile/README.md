@@ -60,12 +60,16 @@ In OpenMEDLab, we also open-source a bundle of medical datasets for correspondin
 
 ### Evaluation
 
-In clinical application and research area, there are always strong needs to evaluation model performance. 
+In clinical application and research area, there are always strong needs to evaluate model performance. 
 
-#### Segmentation
+#### Segmentation Task
 
 - [A-Eval](https://github.com/openmedlab/A-Eval): A Benchmark for Cross-Dataset Evaluation of Abdominal Multi-Organ Segmentation
-  
+
+#### Classification (Few-shot Learning) Task
+
+- [MedFM Test Set](https://medfm2023.grand-challenge.org/medfm2023/): Test Set of Foundation Model Prompting for Medical Image Classification Challenge 2023.
+
 ---
 
 ## Contributors
