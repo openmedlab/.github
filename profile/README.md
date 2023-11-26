@@ -46,6 +46,26 @@ In OpenMEDLab, we open-source a bundle of medical foundation models and their ap
 
 Comprehensive introduction of models in OpenMEDLab could be found [here](https://github.com/openmedlab/.github/blob/main/models.md).
 
+### Datasets
+
+In OpenMEDLab, we also open-source a bundle of medical datasets for corresponding research of foundation models and their applications in various medical data modalities, ranging from CT, MR, pathology datasets and so on.
+
+#### Highlight Datasets
+
+- [MedFM](https://github.com/openmedlab/dataset/blob/main/MedFM.md) Dataset: Real-world Dataset and Benchmark For Foundation Model Adaptation in Medical Image Classification.
+- [SA-Med2D-20M](https://github.com/openmedlab/dataset/blob/main/SA-Med2D-20M.md) Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks.
+- [SNOW](https://github.com/openmedlab/dataset/blob/main/SNOW.md) Dataset: A Large-scale Synthetic Pathological Dataset for Deep Learning-enabled Segmentation of Breast Cancer.
+
+<!-- Comprehensive introduction of datasets in OpenMEDLab could be found [here](https://github.com/openmedlab/dataset/blob/main/README.md).-->
+
+### Evaluation
+
+In clinical application and research area, there are always strong needs to evaluation model performance. 
+
+#### Segmentation
+
+- [A-Eval](https://github.com/openmedlab/A-Eval): A Benchmark for Cross-Dataset Evaluation of Abdominal Multi-Organ Segmentation
+  
 ---
 
 ## Contributors
