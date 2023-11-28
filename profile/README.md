@@ -43,7 +43,7 @@ In OpenMEDLab, we open-source a bundle of medical foundation models and their ap
 - The 3D CT Segmentation Foundation Model: [MIS-FM](https://github.com/openmedlab/MIS-FM)
 - The Scalable and Transferable 3D Segmentation Foundation Model: [STU-Net](https://github.com/openmedlab/STU-Net)
 - The Foundation Model for Retinal Image: [RETFound](https://github.com/openmedlab/RETFound_MAE)
-- The Foundation Model for Whole-Brain Profiling of Neural Circuitry(Axon Segmentation, Brain Region Segmentation and Whole-Brain Registration): [D-LMBmap](https://github.com/openmedlab/Axon-Segmentation)
+- The Foundation Model for Whole-brain Axon Segmentation and Circuitry Profiling: [D-LMBmap](https://github.com/openmedlab/Axon-Segmentation)
 - The Foundation Model for Endoscopy Video Analysis: [Endo-FM](https://github.com/openmedlab/Endo-FM)
 
 Comprehensive introduction of models in OpenMEDLab could be found [here](https://github.com/openmedlab/.github/blob/main/models.md).
