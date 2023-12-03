@@ -20,9 +20,9 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 </div>
 
 ### Our Representive Papers
-- [On the Challenges and Perspectives of Foundation Models for Medical Image Analysis](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002566). *Medical Image Analysis* [[Bibtex](https://github.com/openmedlab/.github/blob/main/paper/position.txt)]
+- [On the Challenges and Perspectives of Foundation Models for Medical Image Analysis](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002566). *Medical Image Analysis* [[Paper](https://arxiv.org/pdf/2306.05705.pdf)]
 - [MedFMC: A Real-world Dataset and Benchmark For Foundation Model Adaptation in Medical Image Classification](https://www.nature.com/articles/s41597-023-02460-0). *Scientific Data* [[Code](https://github.com/openmedlab/MedFM)]
-- [A Large-scale Synthetic Pathological Dataset for Deep Learning-enabled Segmentation of Breast Cancer](https://www.nature.com/articles/s41597-023-02125-y). *Scientific Data* [[Bibtex](https://github.com/openmedlab/.github/blob/main/paper/dingkx.txt)] 
+- [A Large-scale Synthetic Pathological Dataset for Deep Learning-enabled Segmentation of Breast Cancer](https://www.nature.com/articles/s41597-023-02125-y). *Scientific Data* [[Code](https://github.com/openmedlab/dataset/blob/main/SNOW.md)]
 - [D-LMBmap: a fully automated deep-learning pipeline for whole-brain profiling of neural circuitry](https://www.nature.com/articles/s41592-023-01998-6). *Nature Methods* [[Code](https://github.com/openmedlab/Axon-Segmentation)] 
 - [A Foundation Model for Generalizable Disease Detection from Retinal Images](https://www.nature.com/articles/s41586-023-06555-x). *Nature* [[Code](https://github.com/openmedlab/RETFound_MAE)] 
 
