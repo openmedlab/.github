@@ -35,8 +35,6 @@ In OpenMEDLab, we open-source a bundle of medical foundation models and their ap
 </div>
 <p style="text-align:center;font-size:5px;"><em>Image from "S. Zhang and D. Metaxas. On the Challenges and Perspectives of Foundation Models for Medical Image Analysis. Medical Image Analysis"</em></p>
 
-#### Highlight Models
-
 - The Medical Large Language Model: [PULSE](https://github.com/openmedlab/PULSE)
 - The 3D CT Segmentation Foundation Model: [MIS-FM](https://github.com/openmedlab/MIS-FM)
 - The Scalable and Transferable 3D Segmentation Foundation Model: [STU-Net](https://github.com/openmedlab/STU-Net)
@@ -44,13 +42,11 @@ In OpenMEDLab, we open-source a bundle of medical foundation models and their ap
 - The Foundation Model for Whole-brain Axon Segmentation and Circuitry Profiling: [D-LMBmap](https://github.com/openmedlab/Axon-Segmentation)
 - The Foundation Model for Endoscopy Video Analysis: [Endo-FM](https://github.com/openmedlab/Endo-FM)
 
-Comprehensive introduction of models in OpenMEDLab could be found [here](https://github.com/openmedlab/.github/blob/main/models.md).
+More foundation models for medical images could be found [here](https://github.com/openmedlab/.github/blob/main/models.md).
 
 ### Datasets
 
 In OpenMEDLab, we also open-source a bundle of medical datasets for corresponding research of foundation models and their applications in various medical data modalities, ranging from CT, MR, pathology datasets and so on.
-
-#### Highlight Datasets
 
 - [MedFM](https://github.com/openmedlab/dataset/blob/main/MedFM.md) Dataset: Real-world Dataset and Benchmark For Foundation Model Adaptation in Medical Image Classification.
 - [SA-Med2D-20M](https://github.com/openmedlab/dataset/blob/main/SA-Med2D-20M.md) Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks.
