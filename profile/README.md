@@ -60,7 +60,7 @@ In clinical application and research area, there are always strong needs to eval
 
 - [A-Eval](https://github.com/openmedlab/A-Eval): A Benchmark for Cross-Dataset Evaluation of Abdominal Multi-Organ Segmentation
 
-- [ELO](): 
+- [ELO](): The widely used Elo Rating tournament evaluation method for calculating the relative skill levels of LLMs.
 
 
 ---
