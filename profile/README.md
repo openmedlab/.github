@@ -51,6 +51,7 @@ In OpenMEDLab, we also open-source a bundle of medical datasets for correspondin
 - [MedFM](https://github.com/openmedlab/dataset/blob/main/MedFM.md) Dataset: Real-world Dataset and Benchmark For Foundation Model Adaptation in Medical Image Classification.
 - [SA-Med2D-20M](https://github.com/openmedlab/dataset/blob/main/SA-Med2D-20M.md) Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks.
 - [SNOW](https://github.com/openmedlab/dataset/blob/main/SNOW.md) Dataset: A Large-scale Synthetic Pathological Dataset for Deep Learning-enabled Segmentation of Breast Cancer.
+- [Endo-FM Private Dataset](https://github.com/openmedlab/Endo-FM#pre-training-data-6-public--1-private) A Large-scale Endoscopic Video Dataset with over 33K Video Clips.
 
 <!-- Comprehensive introduction of datasets in OpenMEDLab could be found [here](https://github.com/openmedlab/dataset/blob/main/README.md).-->
 
