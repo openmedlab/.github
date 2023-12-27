@@ -81,6 +81,7 @@ In clinical application and research area, there are always strong needs to eval
 *Chinese University of Hong Kong*:  [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/) <br />
 *University of British Columbia*:  [Xiaoxiao Li](https://tea.ece.ubc.ca/) <br />
 *University College London*:  [Yukun Zhou](https://rmaphoh.github.io/) <br />
+*Xi'an Jiaotong University*:  [Zhongyu Li](https://webpages.charlotte.edu/~zli35/) <br />
 *Rutgers University*:  [Dimitris Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ) <br />
 *West China Hospital*:  [Kang Li](https://yjs.cd120.com/showteacher.asp?id=1071) <br />
 *Xinhua Hospital*:  [Xin Sun](https://) <br />
