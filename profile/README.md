@@ -68,7 +68,7 @@ In clinical application and research area, there are always strong needs to eval
 
 ## Contributors
 
-**Project Leader**: [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ&hl=en&oi=ao), [Xiaosong Wang](https://xiaosongwang.github.io/) <br />
+**Project Leader**: [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ&hl=en&oi=ao), [Xiaosong Wang]([https://xiaosongwang.github.io/](https://scholar.google.com/citations?user=c66GnOEAAAAJ&hl=en)) <br />
 **Key Contributors:** <br />
 *Shanghai AI Laboratory*:  [Junjun He](https://junjun2016.github.io/) <br />
 *Guangzhou Laboratory*:  [Yixue Li](https://scholar.google.com/citations?user=Qv27G1cAAAAJ) <br />
