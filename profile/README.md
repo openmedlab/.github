@@ -44,6 +44,8 @@ In OpenMEDLab, we open-source a bundle of medical foundation models and their ap
 
 More foundation models for medical images could be found [here](https://github.com/openmedlab/.github/blob/main/models.md).
 
+:fire: A survey on data-centric foundation models in computational healthcare could be found [here](https://github.com/openmedlab/Data-Centric-FM-Healthcare).
+
 ### Datasets
 
 In OpenMEDLab, we also open-source a bundle of medical datasets for corresponding research of foundation models and their applications in various medical data modalities, ranging from CT, MR, pathology datasets and so on.
