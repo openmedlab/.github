@@ -64,6 +64,7 @@ In OpenMEDLab, we also open-source a bundle of medical datasets for correspondin
 In clinical application and research area, there are always strong needs to evaluate model performance. 
 
 - [MedBench](https://medbench.opencompass.org.cn/home): An Open Evaluation Platform for Chinese Medical Large Language Models.
+- [OmniMedVQA](https://github.com/OpenGVLab/Multi-Modality-Arena?tab=readme-ov-file#omnimedvqa-a-new-large-scale-comprehensive-evaluation-benchmark-for-medical-lvlm): A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM.
 - [A-Eval](https://github.com/openmedlab/A-Eval): A Benchmark for Cross-Dataset Evaluation of Abdominal Multi-Organ Segmentation.
 - [ELO](): The widely used Elo Rating tournament evaluation method for calculating the relative skill levels of LLMs.
 
