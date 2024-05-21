@@ -20,6 +20,7 @@ OpenMEDLab is an open-source platform to share medical foundation models in mult
 </div>
 
 ### Our Representive Papers
+- OpenMEDLab: An Open-source Platform for Multi-modality Foundation Models in Medicine. *ArXiv'2024* [[Paper](https://arxiv.org/pdf/2402.18028)]
 - [On the Challenges and Perspectives of Foundation Models for Medical Image Analysis](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002566). *Medical Image Analysis* [[Paper](https://arxiv.org/pdf/2306.05705.pdf)]
 - [MedFMC: A Real-world Dataset and Benchmark For Foundation Model Adaptation in Medical Image Classification](https://www.nature.com/articles/s41597-023-02460-0). *Scientific Data* [[Code](https://github.com/openmedlab/MedFM)]
 - [A Large-scale Synthetic Pathological Dataset for Deep Learning-enabled Segmentation of Breast Cancer](https://www.nature.com/articles/s41597-023-02125-y). *Scientific Data* [[Code](https://github.com/openmedlab/dataset/blob/main/SNOW.md)]
@@ -35,16 +36,15 @@ In OpenMEDLab, we open-source a bundle of medical foundation models and their ap
 </div>
 <p style="text-align:center;font-size:5px;"><em>Image from "S. Zhang and D. Metaxas. On the Challenges and Perspectives of Foundation Models for Medical Image Analysis. Medical Image Analysis"</em></p>
 
-- The Medical Large Language Model: [PULSE](https://github.com/openmedlab/PULSE)
-- The 3D CT Segmentation Foundation Model: [MIS-FM](https://github.com/openmedlab/MIS-FM)
-- The 2D and 3D Medical Segmentation Foundation Model using SAM: [SAM-Med2D](https://github.com/openmedlab/SAM-Med2D), [SAM-Med3D](https://github.com/openmedlab/SAM-Med3D)
-- The Foundation Model for Retinal Image: [RETFound](https://github.com/openmedlab/RETFound_MAE)
-- The Foundation Model for Whole-brain Axon Segmentation and Circuitry Profiling: [D-LMBmap](https://github.com/openmedlab/Axon-Segmentation)
-- The Foundation Model for Endoscopy Video Analysis: [Endo-FM](https://github.com/openmedlab/Endo-FM)
+- The Medical Large Language Model: [PULSE](https://github.com/openmedlab/PULSE).
+- The 3D CT Segmentation Foundation Model: [MIS-FM](https://github.com/openmedlab/MIS-FM).
+- The 2D and 3D Medical Segmentation Foundation Model using SAM: [SAM-Med2D](https://github.com/openmedlab/SAM-Med2D), [SAM-Med3D](https://github.com/openmedlab/SAM-Med3D).
+- The Foundation Model for Retinal Image: [RETFound](https://github.com/openmedlab/RETFound_MAE).
+- The Foundation Model for Whole-brain Axon Segmentation and Circuitry Profiling: [D-LMBmap](https://github.com/openmedlab/Axon-Segmentation).
+- The Foundation Model for Endoscopy Video Analysis: [Endo-FM](https://github.com/openmedlab/Endo-FM).
+- The Survey on Data-Centric Foundation Models in Computational Healthcare: [Data-Centric-FM-Healthcare](https://github.com/openmedlab/Data-Centric-FM-Healthcare).
 
 More foundation models for medical images could be found [here](https://github.com/openmedlab/.github/blob/main/models.md).
-
-:fire: A survey on data-centric foundation models in computational healthcare could be found [here](https://github.com/openmedlab/Data-Centric-FM-Healthcare).
 
 ### Datasets
 
@@ -61,7 +61,9 @@ In OpenMEDLab, we also open-source a bundle of medical datasets for correspondin
 
 In clinical application and research area, there are always strong needs to evaluate model performance. 
 
-- [A-Eval](https://github.com/openmedlab/A-Eval): A Benchmark for Cross-Dataset Evaluation of Abdominal Multi-Organ Segmentation
+- [MedBench](https://medbench.opencompass.org.cn/home): An Open Evaluation Platform for Chinese Medical Large Language Models.
+
+- [A-Eval](https://github.com/openmedlab/A-Eval): A Benchmark for Cross-Dataset Evaluation of Abdominal Multi-Organ Segmentation.
 
 - [ELO](): The widely used Elo Rating tournament evaluation method for calculating the relative skill levels of LLMs.
 
