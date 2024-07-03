@@ -68,6 +68,14 @@ In clinical application and research area, there are always strong needs to eval
 - [A-Eval](https://github.com/openmedlab/A-Eval): A Benchmark for Cross-Dataset Evaluation of Abdominal Multi-Organ Segmentation.
 - [ELO](): The widely used Elo Rating tournament evaluation method for calculating the relative skill levels of LLMs.
 
+### Multimodality
+
+With the development of Artificial General Intelligence (AGI), deep learning methods are utilized in many other fields with image, text and other information.
+
+- [ProSST](https://github.com/openmedlab/ProSST): A Pre-trained Protein Sequence and Structure Transformer with Disentangled Attention.
+- [ProtSSN](https://github.com/openmedlab/ProtSSN): Fusion of protein sequence and structural information, using denoising pre-training network for protein engineering (zero-shot).
+- [Swin-UMamba](https://github.com/openmedlab/Swin-UMamba): Mamba-based UNet with ImageNet-based pretraining.
+- [Osteoarthritis-Benchmark](https://github.com/openmedlab/Osteoarthritis-Benchmark): Benchmark for Assessing Large Language Models on Knowledge and Decision-Making Capacity in Osteoarthritis Treatment.
 
 ---
 
