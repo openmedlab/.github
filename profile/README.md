@@ -66,7 +66,7 @@ In clinical application and research area, there are always strong needs to eval
 - [MedBench](https://medbench.opencompass.org.cn/home): An Open Evaluation Platform for Chinese Medical Large Language Models.
 - [OmniMedVQA](https://github.com/OpenGVLab/Multi-Modality-Arena?tab=readme-ov-file#omnimedvqa-a-new-large-scale-comprehensive-evaluation-benchmark-for-medical-lvlm): A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM.
 - [A-Eval](https://github.com/openmedlab/A-Eval): A Benchmark for Cross-Dataset Evaluation of Abdominal Multi-Organ Segmentation.
-- [ELO](): The widely used Elo Rating tournament evaluation method for calculating the relative skill levels of LLMs.
+- [ELO](https://github.com/openmedlab/PULSE-EVAL): The widely used Elo Rating tournament evaluation method for calculating the relative skill levels of LLMs.
 
 ### Multimodality
 
